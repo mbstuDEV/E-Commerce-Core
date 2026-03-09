@@ -4,7 +4,7 @@
 
 ![Status](https://img.shields.io/badge/status-production-brightgreen)
 ![Stack](https://img.shields.io/badge/stack-Next.js%2014%20%2F%20Tailwind%20%2F%20TypeScript-black)
-![License](https://img.shields.io/badge/license-private-red)
+![License](https://img.shields.io/badge/license-public-green)
 
 ---
 
