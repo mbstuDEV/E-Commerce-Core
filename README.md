@@ -4,7 +4,7 @@
 
 ![Status](https://img.shields.io/badge/status-production-brightgreen)
 ![Stack](https://img.shields.io/badge/stack-Next.js%2014%20%2F%20Tailwind%20%2F%20TypeScript-black)
-![License](https://img.shields.io/badge/license-public-green)
+![License](https://img.shields.io/badge/license-private-red)
 
 ---
 
@@ -167,4 +167,4 @@ See `.github/workflows/deploy.yml` for the full CI/CD configuration.
 
 ## License
 
-Private. All rights reserved. © 2024 muntasirbergam.studio
+Private. All rights reserved. © 2026 muntasirbergam.studio
